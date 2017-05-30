@@ -3,5 +3,19 @@
   "dependencies": {
     "ember": "~2.10.0",
     "ember-cli-shims": "0.1.3"
-  }
+  },
+  "homepage": "https://github.com/ziggity/ember_Vacation",
+  "authors": [
+    "Max Reichman <reichmanmax@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }

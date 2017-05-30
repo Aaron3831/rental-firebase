@@ -5,10 +5,12 @@
   "license": "MIT",
   "author": "",
   "directories": {
-    "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziggity/ember_Vacation.git"
+  },
   "scripts": {
     "build": "ember build",
     "start": "ember server",
@@ -43,5 +45,10 @@
   "engines": {
     "node": ">= 0.12.0"
   },
-  "private": true
+  "private": true,
+  "main": "ember-cli-build.js",
+  "bugs": {
+    "url": "https://github.com/ziggity/ember_Vacation/issues"
+  },
+  "homepage": "https://github.com/ziggity/ember_Vacation#readme"
 }
